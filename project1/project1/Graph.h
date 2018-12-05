@@ -2,7 +2,7 @@
 #ifndef GRAPH_H
 #define GRAPH_H
 #include<string>
-#include"Router.h"
+#include"Rooter.h"
 using namespace std;
 const int maxWeight = INT_MAX;
 const int DeafultVertices = 30;			//代表最大顶点数 =n
